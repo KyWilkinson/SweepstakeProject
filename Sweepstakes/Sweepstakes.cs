@@ -17,7 +17,7 @@ namespace Sweepstakes
             this.name = name;
         }
 
-        public void RegisterContestant()
+        public void RegisterContestant(Contestant contestant)
         {
 
         }
