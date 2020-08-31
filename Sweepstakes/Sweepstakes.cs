@@ -11,5 +11,27 @@ namespace Sweepstakes
         private Dictionary<int, Contestant> contestants;
         private string name;
         public string Name;
+
+        public Sweepstakes(string name)
+        {
+            this.name = name;
+        }
+
+        public void RegisterContestant()
+        {
+
+        }
+
+        public Contestant PickWinner()
+        {
+            
+
+        }
+        
+
+        public void PrintConestantInfo(Contestant contestant)
+        {
+
+        }
     }
 }
