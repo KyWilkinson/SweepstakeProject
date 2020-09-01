@@ -19,7 +19,7 @@ namespace Sweepstakes
 
         public void RegisterContestant(Contestant contestant)
         {
-
+            
         }
 
         public Contestant PickWinner()
